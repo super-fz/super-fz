@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src = "https://github.com/super-fz/super-fz/assets/122122054/04d0fc2d-68c8-479a-9d25-cafa35b47ce2"> I'm Fatima Zahra</h1>
+<h1 align="center">Hi there <img src = "https://github.com/super-fz/super-fz/assets/122122054/04d0fc2d-68c8-479a-9d25-cafa35b47ce2" height = "32"> I'm Fatima Zahra</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <!--
