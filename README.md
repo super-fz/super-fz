@@ -1,5 +1,6 @@
 ##<h1 align="center">Hi there :wave: I'm Fatima Zahra</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
+
 <!--
 **super-fz/super-fz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 - :trophy: Challenge Seeker
-- </> Currently interested in DevOps / Cloud / Security
-- 
+- </> Currently interested in **DevOps / Cloud / Security**
+- :dancers: Open to collaboration and eager to learn new things
+- :email: How to reach me: **fz200024@gmail.com**
