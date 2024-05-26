@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 - :trophy: Challenge Seeker
-- </> Currently interested in **DevOps / Cloud / Security**
+- 🚀 Currently interested in **DevOps / Cloud / Security**
 - :email: How to reach me: **fz200024@gmail.com**
