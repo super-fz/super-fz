@@ -1,5 +1,5 @@
-  ## <h1 align="center">Hi there :wave: I'm Fatima Zahra</h1>
-<h3>Aspiring Software Engineer</h3>
+##<h1 align="center">Hi there :wave: I'm Fatima Zahra</h1>
+<h3 align="center">Aspiring Software Engineer</h3>
 <!--
 **super-fz/super-fz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
