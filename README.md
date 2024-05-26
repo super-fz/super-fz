@@ -1,4 +1,4 @@
-##<h1 align="center">Hi there :wave: I'm Fatima Zahra</h1>
+<h1 align="center">Hi there :wave: I'm Fatima Zahra</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <!--
