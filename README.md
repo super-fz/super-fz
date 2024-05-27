@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - :trophy: Challenge Seeker
 - 🚀 Currently interested in **DevOps / Cloud / Security**
 - :email: How to reach me: **fz200024@gmail.com**
+
+
+
+:seedling: I like building projects that have a positive impact on society. I'm passionate about creating solutions that tackle humanitarian challenges and promote moral values.
+
+:earth_africa: My goal is to leverage technology to address real-world problems and contribute to a more ethical and inclusive world.
