@@ -27,4 +27,9 @@ Here are some ideas to get you started:
 
 :earth_africa: My goal is to leverage technology to address real-world problems and contribute to a more ethical and inclusive world.
 
-<img src="https://img.shields.io/badge/Batman-Fan-black?logo=batman&logoColor=yellow" height="55">
+
+“It's not who I am underneath, but what I do that defines me.”  
+
+<i>—The Dark Knight</i>
+
+  <img src="https://github.com/user-attachments/assets/b6b7bc0a-6059-456f-9314-d6c5a9136198" height="55">
