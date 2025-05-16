@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 :seedling: I like building projects that have a positive impact on society. I'm passionate about creating solutions that tackle humanitarian challenges and promote moral values.
 
 :earth_africa: My goal is to leverage technology to address real-world problems and contribute to a more ethical and inclusive world.
+
+<img src="https://img.shields.io/badge/Batman-Fan-black?logo=batman&logoColor=yellow" height="55">
