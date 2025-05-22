@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 
 > *"It's not who I am underneath, but what I do that defines me."*  
 > — *The Dark Knight*
-
-  <img src="https://github.com/user-attachments/assets/b6b7bc0a-6059-456f-9314-d6c5a9136198" height="55">
