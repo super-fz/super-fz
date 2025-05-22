@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 :earth_africa: My goal is to leverage technology to address real-world problems and contribute to a more ethical and inclusive world.
 
 
-“It's not who I am underneath, but what I do that defines me.”  
-<i>—The Dark Knight</i>
+
+> *"It's not who I am underneath, but what I do that defines me."*  
+> — *The Dark Knight*
 
   <img src="https://github.com/user-attachments/assets/b6b7bc0a-6059-456f-9314-d6c5a9136198" height="55">
