@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src = "https://github.com/super-fz/super-fz/assets/122122054/04d0fc2d-68c8-479a-9d25-cafa35b47ce2" height = "32"> I'm Fatima Zahra</h1>
-<h3 align="center">Aspiring Software Engineer and Architect</h3>
+<h3 align="center">Aspiring Software Engineer and Cloud Architect</h3>
 
 <!--
 **super-fz/super-fz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
